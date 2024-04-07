@@ -1,1 +1,3 @@
-# Portfolio1
+# SOFTWARE TESTER PORTFOLIO - Michal Mariančik  
+
+## Projects
