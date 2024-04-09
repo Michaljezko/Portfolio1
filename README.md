@@ -8,6 +8,4 @@
 
 * JIRA - bug report example
 
-* Selenium
-
 * SQL 
