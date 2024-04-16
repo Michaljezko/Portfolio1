@@ -8,6 +8,8 @@
 
 * [Selenium](https://github.com/Michaljezko/Gmail-test-selenium)
 
+* [Test Case2](https://docs.google.com/spreadsheets/d/1Vp64nBhDCz31CCPNwGh5lGg8XbueGTjfRKjpuHks5I8/edit#gid=0)
+
 ### 2 Kalkulacka test
 
 * [JIRA - bug report example](https://michaljezko.github.io)
