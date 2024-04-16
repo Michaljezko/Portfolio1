@@ -6,9 +6,9 @@
 
 * [Test Case1](https://docs.google.com/spreadsheets/d/13JShpESyUxUL0GCBRb_tpyj8aQCnznvt8m7XOSVjYzQ/edit#gid=0)  
 
-* [Automated test in Selenium](https://github.com/Michaljezko/Gmail-test-selenium)
-
 * [Test Case2](https://docs.google.com/spreadsheets/d/1Vp64nBhDCz31CCPNwGh5lGg8XbueGTjfRKjpuHks5I8/edit#gid=0)
+
+* [Automated test in Selenium](https://github.com/Michaljezko/Gmail-test-selenium)
 
 ### 2 Kalkulacka test
 
