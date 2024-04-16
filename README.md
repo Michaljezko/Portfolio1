@@ -6,6 +6,6 @@
 
 * [Selenium](https://github.com/Michaljezko/Gmail-test-selenium)
 
-* JIRA - bug report example
+* [JIRA - bug report example](https://michaljezko.github.io)
 
 * SQL 
