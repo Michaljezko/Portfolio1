@@ -14,4 +14,4 @@
 
 * [JIRA - bug report example](https://michaljezko.github.io)
 
-* SQL 
+* [SQL basic example](https://michaljezko.github.io/sql.html) 
